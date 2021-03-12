@@ -42,3 +42,4 @@ export const BAN_SUCCESSFUL = '***🔨 {{target}} was successfully banned.***';
 export const MEMBERCOUNT_TEXT = `**__{{guild}}__**
                                 {{guild}} has \`{{count}}\` members.s
                                 `.replace(/\n +/g, '\n');
+export const ACHOO = ['Dab when you sneeze!', 'Bless you!', 'Achoo!'];
